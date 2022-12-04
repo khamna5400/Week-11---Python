@@ -1,10 +1,8 @@
 # Intuitive Deep Learning
 
-A beginner-friendly tutorial to introduce Deep Learning concepts in an intuitive way!
+The intuitive guides are at https://medium.com/intuitive-deep-learning
 
-Please find the intuitive guides at https://medium.com/intuitive-deep-learning
-
-This repository contains the datasets and notebooks for the Coding Companion to Intuitive Deep Learning!
+This repository contains the datasets and notebooks for the Intuitive Deep Learning!
 
 The Coding Companion medium posts are here:
 
