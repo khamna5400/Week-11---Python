@@ -10,4 +10,4 @@ The Coding Companion medium posts are here:
 
 [Part 2: Build your first Convolutional Neural Network to recognize images](https://medium.com/intuitive-deep-learning/build-your-first-convolutional-neural-network-to-recognize-images-84b9c78fe0ce)
 
-All Credit goes to [Joseph Lee](https://github.com/josephlee94/intuitive-deep-learning)
+All Credit goes to [Joseph Lee](https://github.com/josephlee94/intuitive-deep-learning) who is the Author of these files.
